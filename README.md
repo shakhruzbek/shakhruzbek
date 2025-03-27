@@ -20,7 +20,7 @@
 ## 🚀 **Featured Projects**
 SOON
 ## 🌐 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a.shokhruzbek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashokhruzbek)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)
 [![Facebook](https://img.shields.io/badge/Facebook-%23407B93?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/a.shokhruzbek)
