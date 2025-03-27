@@ -23,7 +23,10 @@ Learning **NestJS & TypeScript**
 [![Todo List](https://img.shields.io/badge/Live%20Demo-%E2%86%92-blue?style=social&logo=google)](https://todo-list-sandy-delta-63.vercel.app/)
 
 ### 🔗 Reach me
----
+
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashokhruzbek)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)
