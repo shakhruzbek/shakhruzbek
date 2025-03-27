@@ -27,7 +27,9 @@ Learning **NestJS & TypeScript**
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ashokhruzbek)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)
-[![Facebook](https://img.shields.io/badge/Facebook-%23407B93?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/a.shokhruzbek)
+<code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)</code>
+<code>[![Telegram](https://img.shields.io/badge/Telegram-%230088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/ashokhruzbek)</code>
+<code>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)</code>
+<code>[![Facebook](https://img.shields.io/badge/Facebook-%23407B93?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/a.shokhruzbek)</code>
+<code>[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+998930475909)</code>
+
