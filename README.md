@@ -1,9 +1,9 @@
  #  **Shokhruzbek Abdurakhmonov**  
 
-👨‍💻 **Fullstack Developer** | 💡 **Open Source Enthusiast**  
+**Fullstack Developer** | 💡 **Open Source Enthusiast**  
 
-🔭 Currently working on **Fullstack Projects**  
-🌱 Learning **NestJS & TypeScript**  
+Currently working on **Fullstack Projects**  
+Learning **NestJS & TypeScript**  
 
 ## 🛠 Tech Stack  
 
