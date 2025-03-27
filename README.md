@@ -28,4 +28,4 @@ Learning **NestJS & TypeScript**
 <code>[![Instagram](https://img.shields.io/badge/Instagram-%23000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a.shokhruzbek)</code>
 <code>[![Facebook](https://img.shields.io/badge/Facebook-%23000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/a.shokhruzbek)</code>
 <code>[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+998930475909)</code>
-<code>[![Youtube](https://img.shields.io/badge/Youtube-%23000000?style=flat&logo=youtube&logoColor=white)](https://www.facebook.com/ashokhruzbek)</code>
+<code>[![Youtube](https://img.shields.io/badge/Youtube-%23000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/ashokhruzbek)</code>
