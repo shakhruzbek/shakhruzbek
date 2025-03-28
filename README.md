@@ -19,8 +19,11 @@ Learning **NestJS & TypeScript**
 
 ## 📂 Featured Projects
 
-### 📋 Todo List   
+### 📋 Todo List
 [![Todo List](https://img.shields.io/badge/Live%20Demo-%E2%86%92-000000?style=social&logo=google)](https://todo-list-sandy-delta-63.vercel.app/)
+### 📂 1st Portfolio
+[![1st Portfolio](https://img.shields.io/badge/1st%20Project-%E2%86%92-000000?style=social&logo=vercel&logoColor=white)](https://my-first-portfolio-dun.vercel.app/)
+
 
 ### 🔗 Reach me
 <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokhruzbek)</code>
